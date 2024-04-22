@@ -1,0 +1,42 @@
+.group-child424 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-cadetblue);
+  width: 273px;
+  height: 58px;
+}
+.wisdomacademygmailcom {
+  position: absolute;
+  top: 13px;
+  left: 57px;
+  display: inline-block;
+  width: 221px;
+  height: 33px;
+}
+.rectangle-parent161 {
+  position: absolute;
+  top: 22px;
+  left: 0;
+  width: 278px;
+  height: 58px;
+}
+.charmmail,
+.group-parent9 {
+  position: absolute;
+  top: 0;
+  left: 9px;
+  width: 48px;
+  height: 36px;
+}
+.group-parent9 {
+  top: 260px;
+  left: 734px;
+  width: 278px;
+  height: 80px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-black);
+  font-family: var(--font-trirong);
+}

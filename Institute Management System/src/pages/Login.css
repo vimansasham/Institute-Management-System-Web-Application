@@ -1,0 +1,143 @@
+.rounded-rectangle {
+  position: absolute;
+  top: 0;
+  left: 594.73px;
+  border-radius: var(--br-xl);
+  width: 705.27px;
+  height: 600px;
+}
+.i-forgot-my {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 486.13px;
+  left: 3.44px;
+  color: inherit;
+  display: inline-block;
+  width: 248.17px;
+  height: 20.87px;
+}
+.group-child18,
+.group-input {
+  border: 0;
+  font-family: var(--font-inter);
+  background-color: transparent;
+  position: absolute;
+  top: 327.14px;
+  left: 3.44px;
+  width: 486.7px;
+  height: 38.26px;
+}
+.group-child18 {
+  font-size: var(--font-size-mini);
+  top: 256.82px;
+  left: 0;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 142.8px;
+  width: 175.89px;
+  height: 132.16px;
+  object-fit: cover;
+}
+.log-in {
+  position: absolute;
+  top: 159.98px;
+  left: 162.07px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 161.43px;
+  height: 41.73px;
+}
+.group-child19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-powderblue-200);
+  width: 156.61px;
+  height: 34.78px;
+}
+.login1 {
+  position: absolute;
+  top: 6.96px;
+  left: 40.96px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  font-family: var(--font-inter);
+  color: var(--color-black);
+  text-align: left;
+  width: 74.69px;
+  height: 20.87px;
+}
+.rectangle-parent4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 478.99px;
+  left: 330.68px;
+  width: 156.61px;
+  height: 34.78px;
+}
+.group-child20,
+.i-forgot-my-password-parent {
+  position: absolute;
+  top: 44px;
+  left: 723px;
+  width: 490.14px;
+  height: 513.77px;
+}
+.group-child20 {
+  top: 0;
+  left: 23.83px;
+  border-radius: var(--br-xl) 0 0 var(--br-xl);
+  width: 752.71px;
+  height: 580.01px;
+  object-fit: cover;
+  mix-blend-mode: multiply;
+}
+.welcome-to-wisdom {
+  margin: 0;
+}
+.welcome-to-wisdom-container {
+  position: absolute;
+  top: 7.35px;
+  left: 0;
+  display: inline-block;
+  width: 576.33px;
+  height: 133.32px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 37px;
+  left: 0;
+  width: 776.54px;
+  height: 580.01px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inika);
+}
+.login-inner,
+.rounded-rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1300px;
+  height: 617.01px;
+}
+.login-inner {
+  left: 108px;
+}
+.login {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

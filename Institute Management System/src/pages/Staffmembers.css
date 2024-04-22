@@ -1,0 +1,600 @@
+.group-child31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightblue);
+  width: 189.74px;
+  height: 27.42px;
+}
+.mathematics {
+  position: absolute;
+  top: 5.71px;
+  left: 26.3px;
+  font-weight: 900;
+  display: inline-block;
+  width: 146.53px;
+  height: 13.71px;
+}
+.rectangle-parent10 {
+  position: absolute;
+  top: 143.97px;
+  left: 50.72px;
+  width: 189.74px;
+  height: 27.42px;
+}
+.group-child32 {
+  position: absolute;
+  top: calc(50% - 313.5px);
+  left: 0;
+  background: linear-gradient(180deg, #dbeced, rgba(255, 255, 255, 0));
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 972px;
+  height: 627px;
+  mix-blend-mode: color-burn;
+}
+.group-child33,
+.group-child34 {
+  position: absolute;
+  top: 177.1px;
+  left: 50.72px;
+  border-radius: 50%;
+  width: 131.5px;
+  height: 83.41px;
+  object-fit: cover;
+}
+.group-child34 {
+  top: 381px;
+  left: 64px;
+  width: 118.35px;
+  height: 70.84px;
+}
+.group-child35 {
+  border: 0;
+  font-weight: 300;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-3xs);
+  background-color: transparent;
+  position: absolute;
+  top: 100.55px;
+  left: 182.23px;
+  width: 518.5px;
+  height: 18.28px;
+}
+.group-child36 {
+  position: absolute;
+  top: -0.5px;
+  left: -0.5px;
+  border-right: 1px solid var(--color-steelblue-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 493.46px;
+}
+.group-child37 {
+  position: absolute;
+  top: 38.85px;
+  left: 50.72px;
+  width: 135.26px;
+  height: 55.99px;
+  object-fit: cover;
+}
+.staff-members {
+  position: absolute;
+  top: 42.28px;
+  left: 219.8px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-trocchi);
+  display: inline-block;
+  width: 353.18px;
+  height: 29.71px;
+}
+.line-icon {
+  position: absolute;
+  top: 316.64px;
+  left: 63.86px;
+  width: 732.67px;
+  height: 3.24px;
+}
+.group-child38,
+.group-child39,
+.group-child40 {
+  position: absolute;
+  top: 174.82px;
+  left: 278.03px;
+  border-radius: 50%;
+  width: 127.75px;
+  height: 81.12px;
+  object-fit: cover;
+}
+.group-child39,
+.group-child40 {
+  top: 177.1px;
+  left: 512.86px;
+  width: 131.5px;
+  height: 84.55px;
+}
+.group-child40 {
+  top: 172.53px;
+  left: 713.87px;
+  width: 110.84px;
+  height: 85.69px;
+}
+.group-child41 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-lightblue);
+  width: 189.74px;
+  height: 22.85px;
+}
+.science {
+  position: absolute;
+  top: 4.57px;
+  left: 46.97px;
+  font-weight: 900;
+  display: inline-block;
+  width: 84.54px;
+  height: 13.71px;
+}
+.rectangle-parent11 {
+  position: absolute;
+  top: 331.35px;
+  left: 50.72px;
+  width: 189.74px;
+  height: 22.85px;
+}
+.bsc-science,
+.mr-anura-gamage {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 199.13px;
+  height: 13.71px;
+}
+.bsc-science {
+  top: 17.14px;
+  left: 29.09px;
+  width: 136.48px;
+}
+.mr-anura-gamage-parent {
+  position: absolute;
+  top: 274px;
+  left: 72px;
+  width: 199.13px;
+  height: 30.85px;
+}
+.miss-deshani-gamage,
+.teacher-of-gov {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 229.19px;
+  height: 13.71px;
+}
+.teacher-of-gov {
+  top: 16px;
+  width: 227.09px;
+}
+.miss-deshani-gamage-parent {
+  position: absolute;
+  top: 270px;
+  left: 293px;
+  width: 229.19px;
+  height: 29.71px;
+}
+.group-child42,
+.group-child43 {
+  position: absolute;
+  object-fit: cover;
+}
+.group-child42 {
+  top: 378px;
+  left: 286px;
+  border-radius: 50%;
+  width: 127.75px;
+  height: 75.41px;
+}
+.group-child43 {
+  top: 376px;
+  left: 518px;
+  width: 119px;
+  height: 82px;
+}
+.bsc-science1,
+.miss-hiruni-deepa {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 195.38px;
+  height: 13.71px;
+}
+.bsc-science1 {
+  top: 16px;
+  left: 19.76px;
+  width: 133.91px;
+}
+.miss-hiruni-deepa-parent {
+  position: absolute;
+  top: 467px;
+  left: 72px;
+  width: 195.38px;
+  height: 29.71px;
+}
+.miss-nayomi-perera,
+.teacher-of-gov1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 218.62px;
+  height: 13.71px;
+}
+.teacher-of-gov1 {
+  top: 13.71px;
+  left: 8.92px;
+  width: 240.93px;
+}
+.miss-nayomi-perera-parent {
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  top: 461px;
+  left: 528px;
+  width: 249.86px;
+  height: 27.42px;
+  color: inherit;
+}
+.bsc-science2,
+.miss-nisha {
+  position: absolute;
+  top: 0;
+  left: 10.1px;
+  font-weight: 500;
+  display: inline-block;
+  width: 136.37px;
+  height: 13.71px;
+}
+.bsc-science2 {
+  top: 11.43px;
+  left: 0;
+  width: 154.05px;
+}
+.miss-nisha-parent {
+  position: absolute;
+  top: 466px;
+  left: 316px;
+  width: 154.05px;
+  height: 25.14px;
+}
+.bsc-science3,
+.mr-mahesh {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 165.32px;
+  height: 16px;
+}
+.bsc-science3 {
+  top: 11.43px;
+  width: 150.51px;
+  height: 13.71px;
+}
+.mr-mahesh-parent {
+  position: absolute;
+  top: 271.94px;
+  left: 713.87px;
+  width: 165.32px;
+  height: 25.14px;
+}
+.mr-hemapala-lokuge,
+.teacher-of-gov2 {
+  position: absolute;
+  top: 0;
+  left: 3.76px;
+  font-weight: 500;
+  display: inline-block;
+  width: 195.38px;
+  height: 13.71px;
+}
+.teacher-of-gov2 {
+  top: 14.85px;
+  left: 0;
+  width: 202.89px;
+}
+.group-child44,
+.mr-hemapala-lokuge-parent {
+  position: absolute;
+  top: 270px;
+  left: 518px;
+  width: 202.89px;
+  height: 28.56px;
+}
+.group-child44 {
+  top: 0;
+  left: 0;
+  width: 144.65px;
+  height: 20.57px;
+}
+.span {
+  font-size: var(--font-size-5xs);
+}
+.add {
+  position: absolute;
+  top: 1.14px;
+  left: 41.33px;
+  font-weight: 300;
+  display: inline-block;
+  width: 46.97px;
+  height: 18.28px;
+}
+.vector-parent {
+  position: absolute;
+  top: 378.2px;
+  left: 698.84px;
+  width: 144.65px;
+  height: 20.57px;
+  font-size: var(--font-size-smi);
+}
+.delete {
+  position: absolute;
+  top: 0;
+  left: 33.82px;
+  font-weight: 300;
+  display: inline-block;
+  width: 75.14px;
+  height: 18.28px;
+}
+.vector-group {
+  position: absolute;
+  top: 412.48px;
+  left: 698.84px;
+  width: 144.65px;
+  height: 20.57px;
+  font-size: var(--font-size-smi);
+}
+.group-child46,
+.group-parent1 {
+  position: absolute;
+  top: 6px;
+  left: 405px;
+  width: 972px;
+  height: 627px;
+}
+.group-child46 {
+  top: 1.39px;
+  left: 0;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    #a7cfcf 8.83%,
+    rgba(190, 220, 220, 0.38) 93.45%,
+    rgba(255, 255, 255, 0)
+  );
+  width: 405.17px;
+  height: 598.61px;
+}
+.group-child47 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightsteelblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 147.86px;
+  height: 25px;
+}
+.home1 {
+  position: absolute;
+  top: 4.17px;
+  left: 19.2px;
+  font-weight: 500;
+  display: inline-block;
+  width: 55.69px;
+  height: 16.67px;
+}
+.rectangle-parent13 {
+  position: absolute;
+  top: 295.83px;
+  left: 128.66px;
+  width: 147.86px;
+  height: 25px;
+  cursor: pointer;
+}
+.dashboard1 {
+  position: absolute;
+  top: 1.39px;
+  left: 17.28px;
+  font-weight: 500;
+  display: inline-block;
+  width: 147.86px;
+  height: 16.67px;
+}
+.calendar1,
+.rectangle-parent14 {
+  position: absolute;
+  top: 256.94px;
+  left: 128.66px;
+  width: 165.14px;
+  height: 25px;
+}
+.calendar1 {
+  top: 2.78px;
+  left: 17.28px;
+  font-weight: 500;
+  display: inline-block;
+  width: 84.49px;
+  height: 16.67px;
+}
+.group-child50,
+.rectangle-parent15 {
+  position: absolute;
+  top: 330.56px;
+  left: 128.66px;
+  width: 147.86px;
+  height: 25px;
+}
+.group-child50 {
+  top: 365.28px;
+  background-color: var(--color-lightsteelblue);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.subjects1,
+.teachers1 {
+  position: absolute;
+  top: 372.22px;
+  left: 145.94px;
+  font-weight: 500;
+  display: inline-block;
+  width: 80.65px;
+  height: 16.67px;
+}
+.teachers1 {
+  top: 5.56px;
+  left: 15.36px;
+  width: 86.41px;
+}
+.contact-us2,
+.rectangle-parent16 {
+  position: absolute;
+  top: 440.28px;
+  left: 128.66px;
+  width: 147.86px;
+  height: 25px;
+}
+.contact-us2 {
+  top: 4.17px;
+  left: 13.44px;
+  font-weight: 500;
+  display: inline-block;
+  width: 132.5px;
+  height: 13.89px;
+}
+.rectangle-parent17 {
+  position: absolute;
+  top: 476.39px;
+  left: 130.58px;
+  width: 147.86px;
+  height: 25px;
+  cursor: pointer;
+}
+.wisdom-academy-online {
+  margin: 0;
+}
+.wisdom-academy-online-container {
+  position: absolute;
+  top: 163px;
+  left: 146px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  font-family: var(--font-lusitana);
+  width: 245.79px;
+  height: 113.89px;
+}
+.marks1 {
+  position: absolute;
+  top: 6.94px;
+  left: 19.2px;
+  font-weight: 500;
+  display: inline-block;
+  width: 57.61px;
+  height: 16.67px;
+}
+.rectangle-parent18 {
+  position: absolute;
+  top: 402.78px;
+  left: 128.66px;
+  width: 147.86px;
+  height: 25px;
+  cursor: pointer;
+}
+.charmbook-open-icon1,
+.charmchart-line-icon1,
+.group-child54 {
+  position: absolute;
+  top: 366.67px;
+  left: 88.33px;
+  width: 30.72px;
+  height: 22.22px;
+}
+.charmchart-line-icon1,
+.group-child54 {
+  top: 404.17px;
+  left: 90.25px;
+}
+.group-child54 {
+  top: -0.5px;
+  left: 404.67px;
+  border-right: 1px solid var(--color-steelblue-100);
+  box-sizing: border-box;
+  width: 1px;
+  height: 599.61px;
+}
+.charmphone-icon2 {
+  position: absolute;
+  top: 477.78px;
+  left: 90.25px;
+  width: 30.72px;
+  height: 22.22px;
+}
+.primehome-icon1,
+.primeth-large-icon1 {
+  position: absolute;
+  top: 254.17px;
+  left: 80.65px;
+  width: 42.25px;
+  height: 29.17px;
+}
+.primehome-icon1 {
+  top: 291.67px;
+  left: 78.73px;
+  width: 46.09px;
+  height: 33.33px;
+}
+.charmcalendar-icon1,
+.charmpeople-icon1,
+.group-child55 {
+  position: absolute;
+  top: 331.94px;
+  left: 88.33px;
+  width: 30.72px;
+  height: 22.22px;
+}
+.charmpeople-icon1,
+.group-child55 {
+  top: 444.44px;
+}
+.group-child55 {
+  top: 1px;
+  left: 152px;
+  width: 101.77px;
+  height: 198.61px;
+  object-fit: cover;
+}
+.rectangle-parent12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 405.2px;
+  height: 600px;
+}
+.staffmembers {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 600px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
